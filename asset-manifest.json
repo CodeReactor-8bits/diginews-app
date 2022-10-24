@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/diginews-app/static/css/main.073c9b0a.css",
+    "main.js": "/diginews-app/static/js/main.a1eec62d.js",
+    "static/js/787.4c026eef.chunk.js": "/diginews-app/static/js/787.4c026eef.chunk.js",
+    "static/media/Loading.gif": "/diginews-app/static/media/Loading.e9202c75d969bfbffe5a.gif",
+    "index.html": "/diginews-app/index.html",
+    "main.073c9b0a.css.map": "/diginews-app/static/css/main.073c9b0a.css.map",
+    "main.a1eec62d.js.map": "/diginews-app/static/js/main.a1eec62d.js.map",
+    "787.4c026eef.chunk.js.map": "/diginews-app/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a1eec62d.js"
+  ]
+}
